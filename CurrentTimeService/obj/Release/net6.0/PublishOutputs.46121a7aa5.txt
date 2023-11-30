@@ -1,0 +1,11 @@
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\CurrentTimeService.exe
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\appsettings.Development.json
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\appsettings.json
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\CurrentTimeService.dll
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\CurrentTimeService.deps.json
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\CurrentTimeService.runtimeconfig.json
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\CurrentTimeService.pdb
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\Microsoft.OpenApi.dll
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\Swashbuckle.AspNetCore.Swagger.dll
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\Text\Wyklady_3_sem\Pamiw\testaplic\Swashbuckle.AspNetCore.SwaggerUI.dll
