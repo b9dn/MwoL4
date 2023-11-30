@@ -33,7 +33,7 @@ jobs:
       - name : Build
         run: dotnet build --no-restore
       - name: Publish
-        run: dotnet publish ./CurrentTimeService/CurrentTimeService -c Release -o ${{ env.DOTNET_ROOT }}/app
+        run: dotnet publish ./CurrentTimeService/CurrentTimeService.csproj -c Release -o ${{ env.DOTNET_ROOT }}/app
       - name: Upload artifact
         uses: actions/upload-artifact@v3.1.0
         with:
